@@ -1,4 +1,5 @@
 export const environment = {
-  production: true,
+  production: false,
+  name: 'qa',
   host:'https://qa-api.eteki.com/'
 };

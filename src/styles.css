@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.spacer {
+    padding-top: 10px;
+}
+
+.profile-details {
+    border: 1px solid white;
+    border-width: 100px;
+    background-color: white
+}
